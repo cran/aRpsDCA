@@ -1,5 +1,5 @@
 # aRpsDCA
-# Copyright (C) 2014 dwt | terminus data science, LLC
+# Copyright (C) 2015 dwt | terminus data science, LLC
 # <dwt [at] terminusdatascience.com>
 
 # This library is free software; you can redistribute it and/or
@@ -84,7 +84,7 @@ format.exponential <- function(x, ...)
 
 format.hyperbolic <- function(x, ...)
 {
-    paste("Arps exponential decline: <qi = ",
+    paste("Arps hyperbolic decline: <qi = ",
           format(x$qi, ...),
           ", Di = ",
           format(x$Di, ...),
@@ -96,7 +96,7 @@ format.hyperbolic <- function(x, ...)
 
 format.hyp2exp <- function(x, ...)
 {
-    paste("Arps exponential decline: <qi = ",
+    paste("Arps hyperbolic-to-exponential decline: <qi = ",
           format(x$qi, ...),
           ", Di = ",
           format(x$Di, ...),

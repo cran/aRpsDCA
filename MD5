@@ -1,11 +1,11 @@
-f1f69c8cca0d396046c3f59b4b388037 *DESCRIPTION
+d4cbf4df83c3af5c5bb20cd7f912a2bc *DESCRIPTION
 0448c610831615d2e2b484b5bf58930e *NAMESPACE
-1bcc7e7d90278c8be7b3b7137cf33cc3 *R/arps.R
-8422bd29d1161e75715b5f84bdb32120 *R/bestfit.R
-aa26bf9d8a087864274597d69363523f *R/curtail.R
-1787e72ba01c33dc0741ce703432358b *R/eur.R
-5a1aa2fcebb8608e5fba985caa9e067e *R/s3.R
-7b5a27289791a40ccb110cf90fb91087 *README.md
+514ec6d60e1e4e413b81237b8691c217 *R/arps.R
+1a5d50c6bd30ff51bacf067c2e7f5df8 *R/bestfit.R
+6d5a5b912eae74c868ff6da67d63951d *R/curtail.R
+5e6f7a638270743a0d85154f790aad84 *R/eur.R
+89a0613ecd774b36c4050e74fb3b63a9 *R/s3.R
+2e4bad357915c0ebdc67c98203308283 *README.md
 c1f4443c92e8ea2008146b1b542fe924 *man/aRpsDCA-package.Rd
 ded952cc21effc48a846965dabe51067 *man/arps.Rd
 35729bedeb68563ab4e602be82b2ddd7 *man/as.effective.Rd
@@ -20,5 +20,5 @@ ab87482c1d1ed820740c11d1fdc18c21 *man/format.arps.Rd
 15cca73db73e5a8fd585e9f5e53b021a *man/hyperbolic.Rd
 15df943b35e1250b372800f34d187bc1 *man/print.arps.Rd
 fcace4d126b7ab47404aff31677f2fa9 *man/rescale.by.time.Rd
-21e0cfa3c5b3d496aa01e7790bf5b9f4 *tests/fit_and_plot.R
-afdb9c5dc2b42bc1a7a411cef673f8b8 *tests/fit_and_plot_from_Np.R
+fbfe8a8945e8cf8b3261e123a9586a07 *tests/fit_and_plot.R
+1b5b6eefa750d4f3a4fe2d9cc1b591ec *tests/fit_and_plot_from_Np.R
